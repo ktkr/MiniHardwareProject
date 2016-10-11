@@ -1,0 +1,8 @@
+INTSTYLE=pa
+INFILE=D:\Documents\mojo\MHP\work\planAhead\MHP\MHP.runs\impl_1\mojo_top_0_routed.ncd
+OUTFILE=D:\Documents\mojo\MHP\work\planAhead\MHP\MHP.runs\impl_1\mojo_top_0.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=D:\Documents\mojo\MHP\work\planAhead\MHP\MHP.runs\impl_1
+LICENSE=WebPack
+USER_INFO=__0_0_0
